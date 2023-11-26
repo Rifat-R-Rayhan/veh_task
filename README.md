@@ -1,3 +1,25 @@
+#veh_task
+Vision Eye Hospital Coding Test
+Instructions for setting up and using this application:
+1. Copy the GitHub link and open the git bash to clone the project using this command
+   Ex: git clone https://github.com/Rifat-R-Rayhan/veh_task.git
+2. Open the project in VS Code studio
+3. Open the VS Code studio terminal and write those commands step by step
+5. composer install or composer update
+6. Rename the file .env.example to .env
+7. php artisan key:generate
+8. php artisan migrate
+   write yes to creating a database
+11. php artisan storage:link
+12. npm install
+13. npm run dev
+14. php artisan optiimize
+15. php artisan serve
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
